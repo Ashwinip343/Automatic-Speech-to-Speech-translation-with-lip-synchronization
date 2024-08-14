@@ -1,8 +1,6 @@
 # Automatic-Speech-to-Speech-translation-with-lip-synchronization
  Building an automated pipeline capable of translating a video of a person speaking in language A into a target language B with voice transfer/cloning & realistic lip synchronization, consisting of several pre-trained, open-source deep learning models for enhanced lip synchronized video generation.
 
-<img width="820" alt="deeps" src="https://github.com/user-attachments/assets/35b39401-3329-46d5-809c-3db370f293b6">
-
 
 The whole pipeline consists of several phases :
 
