@@ -11,3 +11,4 @@ The whole pipeline consists of several phases :
 -  Enhancing video quality - ESRGAN
 
 
+<img width="820" alt="ats" src="https://github.com/user-attachments/assets/8e48dfa8-514b-4623-bcd1-993ebd01dc80">
