@@ -1,4 +1,6 @@
 # Automatic-Speech-to-Speech-translation-with-lip-synchronization
+Kaggle link - https://www.kaggle.com/code/winiiash/ai-dubbing-system-with-lip-synchronization-voice
+
 The Project proposes the development of an automated pipeline capable of translating a video of a person speaking in language A into a target language B with voice transfer/cloning & realistic lip synchronization, consisting of several pre-trained, open-source deep learning models for enhanced lip synchronized video generation.
 
 The whole pipeline consists of several phases :
